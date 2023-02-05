@@ -1,1 +1,3 @@
 Example: text file to track its changes
+
+First change: we add some extra text
