@@ -1,5 +1,5 @@
 # GIT-GUIDE
-GIT user guide
+GIT.ipynb user guide, contents:
 ## 1. GIT REPOSITORIES
 ### 1.1 Transform folders into GIT repositories
 ### 1.2 Example
