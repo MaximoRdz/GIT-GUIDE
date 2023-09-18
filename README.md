@@ -10,3 +10,4 @@ GIT.ipynb user guide, contents:
 #### 1.5.2 Advance notions on merging: 
 ## 2. GIT PUSH/PULL 
 
+* Check [git](https://www.atlassian.com/git/tutorials/using-branches/git-merge#:~:text=Git%20Merge%201%20Preparing%20to%20merge%20Before%20performing,4%20Merging%20...%205%20Fast%20Forward%20Merge%20)
